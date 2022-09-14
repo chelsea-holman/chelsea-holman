@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chelsea</h1>
-<h3 align="center">A passionate full-stack developer from the US, but based in China.</h3>
+<h3 align="center">A passionate full-stack developer based in Shanghai, China.</h3>
 
 - 🌱 I’m currently learning **React, Vue.js**
 
